@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>log4net.Ext.Serializable</id>
+    <version>1.0</version>
+    <title>Deployment Framework for BizTalk Log4Net support</title>
+    <authors>Thomas F. Abraham, Scott Colestock</authors>
+    <owners>older</owners>
+    <licenseUrl>http://www.opensource.org/licenses/ms-pl.html</licenseUrl>
+    <projectUrl>https://biztalkdeployment.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>To assist in debugging your BizTalk application during development and even into production, it is often critical to have a mechanism for saving messages to one or more easily-accessible locations.  The open-source logging framework Log4Net is one good solution, and the Deployment Framework for BizTalk offers built-in support for it.</description>
+    <releaseNotes>Initial release for NuGet.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>log4net biztalk</tags>
+  </metadata>
+</package>
